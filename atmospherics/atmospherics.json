@@ -1,0 +1,20 @@
+{
+    "format_version": "1.21.0",
+    "minecraft:atmosphere_settings": {
+        "description": {
+            "identifier": "training:morning_clear"
+        },
+        "horizon_blend_stops": {
+            "min": 0.05,
+            "start": 0.25,
+            "mie_start": 0.3,
+            "max": 0.9
+        },
+        "rayleigh_strength": 3.2,
+        "sun_mie_strength": 1.5,
+        "moon_mie_strength": 0.1,
+        "sun_glare_shape": 0.85,
+        "sky_zenith_color": "#87CEFA",
+        "sky_horizon_color": "#FFD580"
+    }
+}

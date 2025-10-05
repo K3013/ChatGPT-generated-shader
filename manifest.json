@@ -1,0 +1,29 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "ChatGPT's Shaders",
+		"description": "A shaderpack created by trained AI, ChatGPT.",
+		"uuid": "d1a398e8-c566-4f1e-a760-6076f1e4c9ef",
+		"version": [
+			1,
+			0,
+			0
+		],
+		"min_engine_version": [ 1, 21, 80 ]
+	},
+	"modules": [
+		{
+			"description": "",
+			"type": "resources",
+			"uuid": "5a1bb411-11ef-4eeb-9eb6-ca1c4e823d09",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"capabilities": [
+		"pbr"
+	]
+}
